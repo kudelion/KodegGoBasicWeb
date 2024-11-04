@@ -1,0 +1,8 @@
+nav {
+  background-color: red;
+}
+
+nav li {
+  font: bold;
+  list-style: none;
+}

@@ -1,0 +1,9 @@
+nav {
+  background-color: red;
+  display: flex;
+}
+
+nav li {
+  font: bold;
+  list-style: none;
+}

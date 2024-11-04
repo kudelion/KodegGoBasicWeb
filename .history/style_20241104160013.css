@@ -1,0 +1,14 @@
+.navgroup {
+  background-color: red;
+}
+nav {
+  font-weight: bolder;
+}
+
+nav ul {
+  display: flex;
+}
+
+nav li {
+  list-style: none;
+}

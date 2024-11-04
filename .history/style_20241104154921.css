@@ -1,0 +1,11 @@
+nav {
+  background-color: red;
+}
+
+nav ul {
+  display: flexbox;
+}
+
+nav li {
+  list-style: none;
+}
